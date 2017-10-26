@@ -44,4 +44,3 @@ Internships:
 Skills:["C","C++","HTML","Java"],
 }
 console.log(Resume);                
-//
