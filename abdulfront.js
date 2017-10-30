@@ -1,4 +1,5 @@
 var x=require('./abdulfront.json');
+//hello
 var makeHuman= function() { 
     return function() {
         //console.log(x.gender);
